@@ -13,6 +13,11 @@ Efetuar o clone do repositório com o comando a seguir:
 ```bash
 git clone https://github.com/garibeiro1993/teste_logica_iugu.git
 ```
+Em seguida acessar o diretório:
+
+```bash
+cd teste_logica_iugu.git
+```
 
 #### 1º Algoritmo - Descubra a sala correta
 Escreva um algoritmo (em qualquer linguagem) que resolva a seguinte questão:
